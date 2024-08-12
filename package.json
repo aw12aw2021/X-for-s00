@@ -1,8 +1,8 @@
 {
-  "name": "X-for-Serv00",
+  "name": "xxx",
   "version": "1.0.0",
-  "description": "A simple Express.js server to run X on Serv00",
-  "author": "k0baya (https://github.com/k0baya)",
+  "description": "A simple Express.js server",
+  "author": "xxx (https://github.com/xxx)",
   "main": "app.js",
   "license": "MIT",
   "private": false,
@@ -18,7 +18,7 @@
     "node": "22"
   },
   "repository": {
-    "url": "https://github.com/k0baya/x-for-serv00"
+    "url": "https://github.com/xxx"
   },
   "keywords": [
     "node"
